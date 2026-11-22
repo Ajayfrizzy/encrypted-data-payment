@@ -1,4 +1,9 @@
-# Encrypted data payment starter
+# My adaptation: Dataset Unlock
+
+See [Dataset Unlock documentation](./MYREADME.md) for my changes,
+setup instructions, and demo walkthrough.
+
+## Encrypted data payment starter
 
 A browser-only Buyer and Seller using Fiber and CKB Testnet. The full walkthrough is at https://www.fiber.world/docs/build/encrypted-data-payment.
 
